@@ -1,3 +1,5 @@
-node_modules
-config/database.js
+# Ignore node_modules directory
+node_modules/
 
+# Ignore database config file
+config/database.js
