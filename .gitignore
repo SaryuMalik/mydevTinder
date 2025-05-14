@@ -3,3 +3,4 @@ node_modules/
 
 # Ignore database config file
 config/database.js
+   
